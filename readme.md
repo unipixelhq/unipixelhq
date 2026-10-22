@@ -1,6 +1,3 @@
-Here's the full README. To put it in: open `readme.md` on GitHub, click the pencil, click in the text, press Ctrl+A, then Ctrl+V, then Commit changes. Pasting is safe. The editor only added the extra `>` and list markers because the text was typed in line by line.
-
-```markdown
 # UniPixel
 
 > Server-side conversion tracking for WordPress and WooCommerce. Meta, Google, TikTok, Pinterest, Microsoft. From your own server. No GTM. No external cloud. No per-platform repetition.
